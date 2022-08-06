@@ -1,2 +1,2 @@
-# logos
-Logos and other image assets
+# Speedy Snacks Logos
+
